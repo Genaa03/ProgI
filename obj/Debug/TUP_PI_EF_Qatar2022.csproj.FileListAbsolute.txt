@@ -1,0 +1,55 @@
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.exe.config
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.exe
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.pdb
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.FrmJugadores.resources
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.Properties.Resources.resources
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.GenerateResource.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.exe
+D:\UTN\ProgramacionI\2022\ExamenTUPPI23112022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.pdb
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.exe.config
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.exe
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.pdb
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.FrmJugadores.resources
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.Properties.Resources.resources
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.GenerateResource.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.exe
+D:\UTN\ProgramacionI\2022\ExamenTUPPI05122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.pdb
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.exe.config
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.exe
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.pdb
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.FrmJugadores.resources
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.Properties.Resources.resources
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.GenerateResource.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.exe
+D:\UTN\ProgramacionI\2022\ExamenTUPPI19122022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.pdb
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.exe.config
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.exe
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.pdb
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.FrmJugadores.resources
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.Properties.Resources.resources
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.exe
+C:\Users\Alumno\Documents\Downloads\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.pdb
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.FrmJugadores.resources
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.Properties.Resources.resources
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.exe
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\obj\Debug\TUP_PI_EF_Qatar2022.pdb
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.exe.config
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.exe
+C:\Users\Usuario\Documents\Universidad\1er Semestre\PI\Final\TUP_PI_EF_Qatar2022\TUP_PI_EF_Qatar2022\bin\Debug\TUP_PI_EF_Qatar2022.pdb
